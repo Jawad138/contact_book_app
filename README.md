@@ -60,9 +60,7 @@ Ensure you have Python 3.x installed. You'll also need to install Flask and SQLA
 
 ### Running the Application
 
-After setting up, you can run the application using:
+After setting up, you can run the application using: python app.py
 
-```bash
-python app.py
-
-![image](https://github.com/user-attachments/assets/99dde86d-1d90-4951-b92c-b51c45178028)
+### Output
+![image](https://github.com/user-attachments/assets/85c1e956-9871-4f28-94bb-6201d30fbe67)
