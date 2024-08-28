@@ -64,3 +64,5 @@ After setting up, you can run the application using:
 
 ```bash
 python app.py
+
+![image](https://github.com/user-attachments/assets/99dde86d-1d90-4951-b92c-b51c45178028)
